@@ -1,3 +1,10 @@
+/**
+* Package for Calculate task.
+*
+* @author Andrey Filev
+* @version $Id$
+* @since 0.1
+*/
 package ru.job4j;
 
 public class Calculate {
